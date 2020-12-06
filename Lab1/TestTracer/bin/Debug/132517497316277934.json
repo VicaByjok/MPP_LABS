@@ -1,0 +1,87 @@
+{
+  "threads": [
+    {
+      "id": "1",
+      "methods": [
+        {
+          "name": "TestFourConsole",
+          "class": "TestsForTracer.Tests",
+          "time": "0",
+          "methods": []
+        },
+        {
+          "name": "TestFourConsole",
+          "class": "TestsForTracer.Tests",
+          "time": "1705.0976",
+          "methods": [
+            {
+              "name": "TestFourConsole",
+              "class": "TestsForTracer.Tests",
+              "time": "1705.0976",
+              "methods": [
+                {
+                  "name": "TestFourConsole",
+                  "class": "TestsForTracer.Tests",
+                  "time": "1704.0975",
+                  "methods": [
+                    {
+                      "name": "SomeMethods",
+                      "class": "TestsForTracer.Tests",
+                      "time": "1204.0689",
+                      "methods": [
+                        {
+                          "name": "SomeMethods",
+                          "class": "TestsForTracer.Tests",
+                          "time": "1200.0686",
+                          "methods": [
+                            {
+                              "name": "OneMethod",
+                              "class": "TestsForTracer.Tests",
+                              "time": "100.0057",
+                              "methods": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "methods": [
+        {
+          "name": "SomeMethods",
+          "class": "TestsForTracer.Tests",
+          "time": "1201.0687",
+          "methods": [
+            {
+              "name": "SomeMethods",
+              "class": "TestsForTracer.Tests",
+              "time": "1201.0687",
+              "methods": [
+                {
+                  "name": "OneMethod",
+                  "class": "TestsForTracer.Tests",
+                  "time": "100.0058",
+                  "methods": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OneMethod",
+          "class": "TestsForTracer.Tests",
+          "time": "101.0057",
+          "methods": []
+        }
+      ]
+    }
+  ]
+}

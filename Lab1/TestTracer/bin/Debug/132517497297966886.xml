@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <thread id="1">
+    <method name="TestThreeConsole" class="TestsForTracer.Tests" Time="1942.111" />
+  </thread>
+  <thread id="2">
+    <method name="SomeMethods" class="TestsForTracer.Tests" Time="1200.0686" />
+    <nestedCalls>
+      <method name="SomeMethods" class="TestsForTracer.Tests" Time="1200.0686" />
+      <nestedCalls>
+        <method name="OneMethod" class="TestsForTracer.Tests" Time="100.0057" />
+      </nestedCalls>
+    </nestedCalls>
+    <method name="OneMethod" class="TestsForTracer.Tests" Time="100.0058" />
+  </thread>
+</root>

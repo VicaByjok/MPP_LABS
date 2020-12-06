@@ -1,0 +1,46 @@
+{
+  "threads": [
+    {
+      "id": "1",
+      "methods": [
+        {
+          "name": "TestThreeConsole",
+          "class": "TestsForTracer.Tests",
+          "time": "1942.111",
+          "methods": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "methods": [
+        {
+          "name": "SomeMethods",
+          "class": "TestsForTracer.Tests",
+          "time": "1200.0686",
+          "methods": [
+            {
+              "name": "SomeMethods",
+              "class": "TestsForTracer.Tests",
+              "time": "1200.0686",
+              "methods": [
+                {
+                  "name": "OneMethod",
+                  "class": "TestsForTracer.Tests",
+                  "time": "100.0057",
+                  "methods": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OneMethod",
+          "class": "TestsForTracer.Tests",
+          "time": "100.0058",
+          "methods": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+D:\БГУИР\6 семестр\ОСиСП\Tracer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\БГУИР\6 семестр\ОСиСП\Tracer\bin\Debug\Tracer.dll
+D:\БГУИР\6 семестр\ОСиСП\Tracer\bin\Debug\Tracer.pdb
+D:\БГУИР\6 семестр\ОСиСП\Tracer\obj\x86\Debug\Tracer.dll
+D:\БГУИР\6 семестр\ОСиСП\Tracer\obj\x86\Debug\Tracer.pdb
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\Tracer\bin\Debug\Tracer.dll
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\Tracer\bin\Debug\Tracer.pdb
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\Tracer\obj\x86\Debug\Tracer.csprojAssemblyReference.cache
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\Tracer\obj\x86\Debug\Tracer.csproj.CoreCompileInputs.cache
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\Tracer\obj\x86\Debug\Tracer.dll
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\Tracer\obj\x86\Debug\Tracer.pdb
+D:\СПП\Tracer\bin\Debug\Tracer.dll
+D:\СПП\Tracer\bin\Debug\Tracer.pdb
+D:\СПП\Tracer\obj\x86\Debug\Tracer.csprojAssemblyReference.cache
+D:\СПП\Tracer\obj\x86\Debug\Tracer.csproj.CoreCompileInputs.cache
+D:\СПП\Tracer\obj\x86\Debug\Tracer.dll
+D:\СПП\Tracer\obj\x86\Debug\Tracer.pdb
+D:\СПП\Lab1\Tracer\bin\Debug\Tracer.dll
+D:\СПП\Lab1\Tracer\bin\Debug\Tracer.pdb
+D:\СПП\Lab1\Tracer\obj\x86\Debug\Tracer.csprojAssemblyReference.cache
+D:\СПП\Lab1\Tracer\obj\x86\Debug\Tracer.csproj.CoreCompileInputs.cache
+D:\СПП\Lab1\Tracer\obj\x86\Debug\Tracer.dll
+D:\СПП\Lab1\Tracer\obj\x86\Debug\Tracer.pdb

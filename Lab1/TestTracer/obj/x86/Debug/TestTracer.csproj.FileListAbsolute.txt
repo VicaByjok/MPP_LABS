@@ -1,0 +1,70 @@
+D:\БГУИР\6 семестр\ОСиСП\TestTracer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\БГУИР\6 семестр\ОСиСП\TestTracer\bin\Debug\TestTracer.exe
+D:\БГУИР\6 семестр\ОСиСП\TestTracer\bin\Debug\TestTracer.pdb
+D:\БГУИР\6 семестр\ОСиСП\TestTracer\bin\Debug\Tracer.dll
+D:\БГУИР\6 семестр\ОСиСП\TestTracer\bin\Debug\Tracer.pdb
+D:\БГУИР\6 семестр\ОСиСП\TestTracer\obj\x86\Debug\TestTracer.exe
+D:\БГУИР\6 семестр\ОСиСП\TestTracer\obj\x86\Debug\TestTracer.pdb
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\bin\Debug\TestTracer.exe
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\bin\Debug\TestTracer.pdb
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\bin\Debug\Tracer.dll
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\bin\Debug\Tracer.pdb
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\obj\x86\Debug\TestTracer.csprojAssemblyReference.cache
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\obj\x86\Debug\TestTracer.csproj.CoreCompileInputs.cache
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\obj\x86\Debug\TestTracer.csproj.CopyComplete
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\obj\x86\Debug\TestTracer.exe
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\obj\x86\Debug\TestTracer.pdb
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\bin\Debug\TestTracer.exe.config
+D:\ЛАБЫ\poit-labs-master\6\OSiSP\TestTracer\bin\Debug\Newtonsoft.Json.dll
+D:\СПП\TestTracer\bin\Debug\TestTracer.exe.config
+D:\СПП\TestTracer\bin\Debug\TestTracer.exe
+D:\СПП\TestTracer\bin\Debug\TestTracer.pdb
+D:\СПП\TestTracer\bin\Debug\Newtonsoft.Json.dll
+D:\СПП\TestTracer\bin\Debug\Tracer.dll
+D:\СПП\TestTracer\bin\Debug\Tracer.pdb
+D:\СПП\TestTracer\obj\x86\Debug\TestTracer.csprojAssemblyReference.cache
+D:\СПП\TestTracer\obj\x86\Debug\TestTracer.csproj.CoreCompileInputs.cache
+D:\СПП\TestTracer\obj\x86\Debug\TestTracer.csproj.CopyComplete
+D:\СПП\TestTracer\obj\x86\Debug\TestTracer.exe
+D:\СПП\TestTracer\obj\x86\Debug\TestTracer.pdb
+D:\СПП\TestTracer\bin\Debug\TestsForTracer.dll
+D:\СПП\TestTracer\bin\Debug\TestsForTracer.pdb
+D:\СПП\Lab1\TestTracer\bin\Debug\TestTracer.exe.config
+D:\СПП\Lab1\TestTracer\bin\Debug\TestTracer.exe
+D:\СПП\Lab1\TestTracer\bin\Debug\TestTracer.pdb
+D:\СПП\Lab1\TestTracer\bin\Debug\Newtonsoft.Json.dll
+D:\СПП\Lab1\TestTracer\bin\Debug\TestsForTracer.dll
+D:\СПП\Lab1\TestTracer\bin\Debug\Tracer.dll
+D:\СПП\Lab1\TestTracer\bin\Debug\TestsForTracer.pdb
+D:\СПП\Lab1\TestTracer\bin\Debug\Tracer.pdb
+D:\СПП\Lab1\TestTracer\obj\x86\Debug\TestTracer.csprojAssemblyReference.cache
+D:\СПП\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CoreCompileInputs.cache
+D:\СПП\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CopyComplete
+D:\СПП\Lab1\TestTracer\obj\x86\Debug\TestTracer.exe
+D:\СПП\Lab1\TestTracer\obj\x86\Debug\TestTracer.pdb
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestTracer.exe.config
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestTracer.exe
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestTracer.pdb
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\Newtonsoft.Json.dll
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestsForTracer.dll
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\Tracer.dll
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestsForTracer.pdb
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\Tracer.pdb
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.csprojAssemblyReference.cache
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CoreCompileInputs.cache
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CopyComplete
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.exe
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.pdb
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\bin\Debug\TestTracer.exe.config
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\bin\Debug\TestTracer.exe
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\bin\Debug\TestTracer.pdb
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\bin\Debug\TestsForTracer.dll
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\bin\Debug\Tracer.dll
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\bin\Debug\TestsForTracer.pdb
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\bin\Debug\Tracer.pdb
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\obj\x86\Debug\TestTracer.csprojAssemblyReference.cache
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CopyComplete
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\obj\x86\Debug\TestTracer.exe
+C:\Users\laptop\Desktop\SPP\Lab1\TestTracer\obj\x86\Debug\TestTracer.pdb

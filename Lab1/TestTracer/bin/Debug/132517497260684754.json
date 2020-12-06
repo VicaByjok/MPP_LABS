@@ -1,0 +1,22 @@
+{
+  "threads": [
+    {
+      "id": "1",
+      "methods": [
+        {
+          "name": "TestOneConsole",
+          "class": "TestsForTracer.Tests",
+          "time": "882.0505",
+          "methods": [
+            {
+              "name": "OneMethod",
+              "class": "TestsForTracer.Tests",
+              "time": "101.0058",
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
